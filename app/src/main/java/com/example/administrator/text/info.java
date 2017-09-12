@@ -17,5 +17,6 @@ public class info extends AppCompatActivity {
 
     private void initView() {
         text = (TextView) findViewById(R.id.text);
+        text.setText("sdf");
     }
 }
